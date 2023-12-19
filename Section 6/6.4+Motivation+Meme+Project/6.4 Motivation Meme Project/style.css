@@ -1,0 +1,22 @@
+* {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+    margin-top: 92px;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+}
